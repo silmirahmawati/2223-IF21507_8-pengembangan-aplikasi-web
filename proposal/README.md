@@ -46,5 +46,12 @@
 |Tanggal |date|10-09-2022 |
 
 ## UX Wireframe
+### admin
 ![Buku Tamu Digital](https://user-images.githubusercontent.com/88075963/189527160-5cd35c49-b168-4323-a964-a1cbdc105f93.png)
+
+### Halaman
+![2](https://user-images.githubusercontent.com/88075963/189537296-5285945d-6a0d-43ce-86fa-e6e38851f39c.png)
+
+### Mahasiswa (User)
+![3](https://user-images.githubusercontent.com/88075963/189537321-905e8d70-f5ab-4ead-b1be-ddb4e0470f4d.png)
 
