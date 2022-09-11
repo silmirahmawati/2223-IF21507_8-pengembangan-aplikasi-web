@@ -9,12 +9,8 @@
 - sering mengantri untuk mengisi buku tamu, sehingga kurang efisien.
 - pengelolaan arsip dari data yang sudah didapat kurang efektif. 
 
-
-Pengunjung dapat memindai barcode yang tersedia di resepsionis kemudian mengisi buku tamu melalui ponsel pintar mereka. Kemudian akan muncul status pengunjung dalam 3 kategori, yakni antrian, proses atau selesai.
-
-
 ## Rancangan Solusi
-- 
+- Aplikasi Buku Tamu yang digunakan untuk mencatat pengunjung yang datang, serta melakukan manajemen data kunjungan tamu.
 
 ## Use Case
 -
