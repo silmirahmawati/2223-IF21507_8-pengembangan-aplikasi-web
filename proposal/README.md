@@ -43,5 +43,8 @@
 |NIM |Integer|1207050120|
 |Jurusan |string|Teknik Informatika|
 |Keperluan |string|ada kelas matkul Peng. App Web |
+|Tanggal |date|10-09-2022 |
 
 ## UX Wireframe
+
+
