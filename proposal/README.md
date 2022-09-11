@@ -46,5 +46,5 @@
 |Tanggal |date|10-09-2022 |
 
 ## UX Wireframe
-
+![Buku Tamu Digital](https://user-images.githubusercontent.com/88075963/189527160-5cd35c49-b168-4323-a964-a1cbdc105f93.png)
 
