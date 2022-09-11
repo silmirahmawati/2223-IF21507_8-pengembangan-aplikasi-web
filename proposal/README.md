@@ -1,8 +1,7 @@
 # Template Proposal
 
 ## Permasalahan
--
--
+- 
 
 ## Rancangan Solusi
 -
