@@ -53,5 +53,4 @@
 ![2](https://user-images.githubusercontent.com/88075963/189537296-5285945d-6a0d-43ce-86fa-e6e38851f39c.png)
 
 ### Mahasiswa (User)
-![3](https://user-images.githubusercontent.com/88075963/189537321-905e8d70-f5ab-4ead-b1be-ddb4e0470f4d.png)
-
+![Buku Tamu Digital (1op)](https://user-images.githubusercontent.com/88075963/189537632-71b8edc0-4904-4fa3-9845-f76aa0bd6c20.png)
