@@ -47,7 +47,7 @@
 
 ## UX Wireframe
 ### admin
-![Buku Tamu Digital](https://user-images.githubusercontent.com/88075963/189527160-5cd35c49-b168-4323-a964-a1cbdc105f93.png)
+![Buku Tamu Digital (1)](https://user-images.githubusercontent.com/88075963/189554596-8ca7afdc-c647-44d6-b2ab-cd08a6c254bf.png)
 
 ### Halaman
 ![2](https://user-images.githubusercontent.com/88075963/189537296-5285945d-6a0d-43ce-86fa-e6e38851f39c.png)
