@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    font-family: Poppins, sans-serif;
+} body{
+    background-color: #f2f7fd;
+    margin: 0 auto;
+} .header {
+    height: 43px;
+    padding: 8px 16px;
+    background-color: #ffffff;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border-bottom: 1px solid rgb(214, 222, 230);
+    justify-content: space-between;
+} .main {
+    max-width : 1000px;
+    margin: 0 auto;
+} .tittle {
+    height: 45px;
+    padding-top: 35px;
+    margin-bottom: 5px;
+} .iklan {
+    width: 100%;
+    display: flex;
+    background-color: #0a428f;
+    border-radius: 0.25rem;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    color: #ffffff;
+    padding: 20px;
+    align-items: center;
+    gap: 30px;
+    box-sizing: border-box;
+} .section-box {
+    background-color: #ffffff;
+    border-radius: 0.50rem;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 5px solid rgba(0, 0, 0, 0.2);
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+    align-items: center;
+    
+} .logo {
+    display: flex;
+    color: black;
+    font: 16px;
+    margin: 0px;
+    background-color: #ffffff;
+    width: 35px;
+    height: 30px;
+    
+
+} .icon-logo {
+    width: 35px;
+    height: 30px;
+    
+} .course {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 15px;
+    justify-self: flex-start;
+    flex-grow: 1;
+    margin-left: 100px;
+} .icon-belajar {
+    width: 30px;
+    height: 30px;
+} .nav-link {
+    line-height: 43px ;
+    padding: auto 20px;
+} .foto {
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    border-radius: 100px;
+} .img {
+    height: 55px;
+    width: 55px;
+    object-fit: cover;
+    border-radius: 100px;
+} h3 {
+    margin: 0;
+} .britain {
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    object-fit: cover;
+} .profile {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 20px;
+} .progresio {
+    height: 10px;
+    width: 150px;
+    background-color: rgb(14, 190, 117);
+    display: inline-block;
+    border-radius: 100px;
+} .teks {
+    flex-grow: 1;
+} .progres {
+    display: flex;
+    align-items: center;
+} .iklan-teks {
+    flex-grow: 1;
+    font-size: 1.125rem;
+} .iklan-button{
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: #0a428f;
+    border-radius: 100px;
+} .iklan-icon {
+    font-size: 2.25rem;
+} .belajar{
+    background-color: rgb(232, 241, 254);
+    padding: 0 20px;
+    border-radius: 10px;
+    color: rgb(17, 110, 238);
+} .nav-button{
+    color: #666e7e;
+} .progresio1 {
+    height: 10px;
+    width: 150px;
+    background-color: #f2f7fd;
+    display: inline-block;
+    border-radius: 100px;
+}
+
+@media  (max-width:768px) {
+    .course{
+        display: none;
+    } .user {
+        display: none;
+    } main {
+        margin: 0 10px;
+    } .progres{
+        display: none;
+    } .iklan {
+        flex-wrap: wrap;
+        gap: 10px;
+    } .iklan-teks {
+        margin: 0;
+    }
+}
