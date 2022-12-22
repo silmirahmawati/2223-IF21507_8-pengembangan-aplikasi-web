@@ -7,8 +7,8 @@ Demo : Github project initialization | ![image](https://user-images.githubuserco
 Demo : Hoppscotch / Postman access	
 Demo : PHP & Composer installation & hello world	
 Demo : PostgreSQL / MySQL installation | ![image](https://user-images.githubusercontent.com/88075963/209118281-1ee82961-e390-4bc1-aba5-92a9a7d96b7b.png)	
-Demo : DBeaver installation & DB connection	
-Demo : MobaXterm installation & SSH connection	
+Demo : DBeaver installation & DB connection	| ![image](https://user-images.githubusercontent.com/88075963/209121443-8edad382-1c5e-414b-afe1-84b9f5d131a6.png)
+Demo : MobaXterm installation & SSH connection | 
 Demo : NodeJS & NPM installation, operation & hello world	
 Demo : Linux server operation	
 Demo : Nginx / Apache web server installation & operation	
