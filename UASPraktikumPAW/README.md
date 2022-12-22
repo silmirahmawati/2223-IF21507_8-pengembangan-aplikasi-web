@@ -7,7 +7,7 @@ Demo : Github project initialization |
 Demo : Github project initialization
 Demo : Hoppscotch / Postman access	
 Demo : PHP & Composer installation & hello world	
-Demo : PostgreSQL / MySQL installation	
+Demo : PostgreSQL / MySQL installation | ![image](https://user-images.githubusercontent.com/88075963/209118281-1ee82961-e390-4bc1-aba5-92a9a7d96b7b.png)	
 Demo : DBeaver installation & DB connection	
 Demo : MobaXterm installation & SSH connection	
 Demo : NodeJS & NPM installation, operation & hello world	
