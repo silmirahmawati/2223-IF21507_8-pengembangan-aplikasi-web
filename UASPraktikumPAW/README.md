@@ -19,7 +19,7 @@ Demo : Domain registration
 
 Penugasan | Bukti SS
 ---- | ---
-Demo : HTML Responsive Layout with Media Query & Flexbox	
+Demo : HTML Responsive Layout with Media Query & Flexbox | ![Screenshot (346)](https://user-images.githubusercontent.com/88075963/191169521-953eff7d-85cb-4180-80ca-c21c035a25b9.png)	![Screenshot (351)](https://user-images.githubusercontent.com/88075963/191169844-d4961873-0a4c-42c1-9a49-35c5159f1cb1.png)
 Demo : Javascript Data Transformation	
 Demo : Browser API - Event Handling, Local Storage, Element manipulation	
 Demo : HTTP GET & POST using Form Action and Fetch API	
