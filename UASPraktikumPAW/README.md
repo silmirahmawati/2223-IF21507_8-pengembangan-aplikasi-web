@@ -32,7 +32,7 @@ Demo : Deploy PHP Project to Cpanel
 
 Penugasan | Tangkapan Layar
 ---- | ---
-Demo : HTML Responsive Layout with Bootstrap	
+Demo : HTML Responsive Layout with Bootstrap | ![image](https://user-images.githubusercontent.com/88075963/209126041-8edaed0c-0a47-4946-924b-298c3b84d1fc.png)
 Demo : Single Page App with React & React-router	
 Demo : Dynamic Web Page using Laravel	
 Demo : Web Service using Slim	
