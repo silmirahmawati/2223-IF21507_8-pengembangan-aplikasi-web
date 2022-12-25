@@ -5,7 +5,8 @@ Penugasan | Tangkapan Layar
 Demo : Git installation | ![image](https://user-images.githubusercontent.com/88075963/209046989-e5ff64f5-9e86-46ca-a657-263f13feaf10.png) 
 Demo : Github project initialization | ![image](https://user-images.githubusercontent.com/88075963/209119014-9ac88c33-1241-4579-b7ae-16e3a3ebea96.png)
 Demo : Hoppscotch / Postman access	
-Demo : PHP & Composer installation & hello world	
+Demo : PHP & Composer installation & hello world |![image](https://user-images.githubusercontent.com/88075963/209458013-6c7a5d4b-d040-4841-aaf0-bf000fc2867f.png)
+
 Demo : PostgreSQL / MySQL installation | ![image](https://user-images.githubusercontent.com/88075963/209118281-1ee82961-e390-4bc1-aba5-92a9a7d96b7b.png)	
 Demo : DBeaver installation & DB connection	| ![image](https://user-images.githubusercontent.com/88075963/209121443-8edad382-1c5e-414b-afe1-84b9f5d131a6.png)
 Demo : MobaXterm installation & SSH connection | ![image](https://user-images.githubusercontent.com/88075963/209121951-39d881d5-eb00-4f19-9114-7baffb27abd8.png)
