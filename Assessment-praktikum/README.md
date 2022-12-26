@@ -20,7 +20,7 @@ Demo : Domain registration
 Penugasan | Tangkapan Layar
 ---- | ---
 Demo : HTML Responsive Layout with Media Query & Flexbox | ![Screenshot (346)](https://user-images.githubusercontent.com/88075963/191169521-953eff7d-85cb-4180-80ca-c21c035a25b9.png)	![Screenshot (351)](https://user-images.githubusercontent.com/88075963/191169844-d4961873-0a4c-42c1-9a49-35c5159f1cb1.png)
-Demo : Javascript Data Transformation	
+Demo : Javascript Data Transformation	| ![image](https://user-images.githubusercontent.com/88075963/209489955-a8f1e1fb-8f7a-4851-a6d4-15d380b19e8e.png)![image](https://user-images.githubusercontent.com/88075963/209489935-6a8e4014-9043-47a7-834b-44c6a7167bbe.png)
 Demo : Browser API - Event Handling, Local Storage, Element manipulation	
 Demo : HTTP GET & POST using Form Action and Fetch API	
 Demo : PHP DB - Dynamic Web Page	
