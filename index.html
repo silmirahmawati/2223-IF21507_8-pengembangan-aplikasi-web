@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Data Transformation</title>
+</head>
+<body>
+    <p id="display"></p>
+
+    <script>
+
+        const zaki = {
+            nama: "Zaki",
+            jenis_kelamin: 1,
+            perasaan: [
+                {
+                    label: "cinta",
+                    level: 99,
+
+                },
+                {
+                    label: "kasmaran",
+                    level: 99,
+                },
+                {
+                    label: "cemburu",
+                    level: 80,
+                },
+            ],
+            umur: 17,
+            permen: ["Kiss", "Relaxa"],
+            motor: [
+                {
+                    merk: "CRF",
+                    harga: 31000000,
+                    start: function(){
+                        console.log("brapapapapapapappa !!!!!");
+                    },
+                },
+                {
+                    merk: "KTM 500",
+                    harga: 250000000,
+                    start: function(){
+                        console.log("bumbumbumbumbumbum !!!");
+                    },
+                },
+            ],
+        };
+
+        const bukansilmi = {
+            nama: "bukanSilmi",
+            nyaut: function(){
+                console.log("iyahhh");
+            },
+            jenis_kelamin: 2,
+            perasaan: [
+                {
+                    label: "cinta",
+                    level: 99,
+                },
+                {
+                    label: "kasmaran",
+                    level: 0,
+                },
+                {
+                    label: "terpaksa",
+                    level: 1000,
+                },
+            ],
+            umur: 17,
+            sisa_di_dompet: 1000,
+            hobi: [
+                {
+                    label: "ngoding",
+                    jam_per_hari: 12,
+                },
+                {
+                    label: "makan",
+                    jam_per_hari: 5,
+                },
+            ],
+        };
+
+        const dutaJajanDiKantinKelasWeb = [zaki, bukansilmi];
+
+        console.log(bukansilmi.perasaan);
+
+        const arrayLevelPerasaanbukanSilmi = bukansilmi.perasaan.map(function(perasaanbukanSilmi, urutanKe) {
+            return perasaanbukanSilmi.level
+        })
+
+        console.log(arrayLevelPerasaanbukanSilmi)
+
+        const arrayLabelPerasaanbukanSilmi = bukansilmi.perasaan.map(function(perasaanbukanSilmi, urutanKe) {
+            return perasaanbukanSilmi.label
+        })
+
+        console.log(arrayLabelPerasaanbukanSilmi)
+
+        const arrayPerasaanbukanSilmiMenangLomba = bukansilmi.perasaan.map(function(perasaanbukanSilmi, urutanKe) {
+            let level = perasaanbukanSilmi.level
+
+            if(perasaanbukanSilmi.label === "cinta") {
+                level += 300;
+            }
+
+            if(perasaanbukanSilmi.label === "kasmaran") {
+                level += 300;
+            }
+
+            if(perasaanbukanSilmi.label === "terpaksa") {
+                level -= 1250;
+            }
+
+            return {
+                label: perasaanbukanSilmi.label,
+                level: level,
+                temporer: true,
+            }
+        })
+
+        console.log(arrayPerasaanbukanSilmiMenangLomba)
+
+    </script>
+</body>
+</html>
