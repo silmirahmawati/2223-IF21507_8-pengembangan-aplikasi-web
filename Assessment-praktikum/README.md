@@ -24,10 +24,9 @@ Demo : Javascript Data Transformation	| ![image](https://user-images.githubuserc
 Demo : Browser API - Event Handling, Local Storage, Element manipulation | ![image](https://user-images.githubusercontent.com/88075963/209507292-db775472-eacf-44ab-a9d7-4ce4a3d33e99.png)![image](https://user-images.githubusercontent.com/88075963/209507141-61281a41-0d07-483b-81f2-432a15cf1a48.png)
 Demo : HTTP GET & POST using Form Action and Fetch API | ![image](https://user-images.githubusercontent.com/88075963/209505093-56664788-fd45-4db7-9aaa-f8a77f106253.png)
 Demo : PHP DB - Dynamic Web Page | ![image](https://user-images.githubusercontent.com/88075963/209544076-b0576f96-5992-46a8-aa82-164db842902c.png)
-Demo : PHP DB - Web Service	| ![image](https://user-images.githubusercontent.com/88075963/209540218-106a7dc7-029f-4365-b80e-49ea269e10b9.png)
+Demo : PHP DB - Web Service	| ![image](https://user-images.githubusercontent.com/88075963/209545078-1d038a6b-8e29-4e79-a561-86d4a26cdba8.png)
 Demo : OOP-based PHP Project using Composer	| ![image](https://user-images.githubusercontent.com/88075963/209538490-6b70d832-f48a-4b72-9754-7c1a844c7af1.png)
-Demo : Deploy PHP Project to Cpanel	| ![image](https://user-images.githubusercontent.com/88075963/209543319-9303d242-c6a8-4a0c-b383-e2b525ec8942.png)
-
+Demo : Deploy PHP Project to Cpanel	| ![image](https://user-images.githubusercontent.com/88075963/209545194-c43ecc38-1a34-499f-94b0-49c7dbbc5f55.png)
 # CLO-0213
 
 Penugasan | Tangkapan Layar
