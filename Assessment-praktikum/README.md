@@ -33,7 +33,7 @@ Demo : Deploy PHP Project to Cpanel
 Penugasan | Tangkapan Layar
 ---- | ---
 Demo : HTML Responsive Layout with Bootstrap | ![image](https://user-images.githubusercontent.com/88075963/209126309-a7e05da1-aa12-4b49-83e1-cc10207e56a2.png) ![image](https://user-images.githubusercontent.com/88075963/209126529-ee13af18-75d2-493a-a481-9b63f0f2803a.png)
-Demo : Single Page App with React & React-router | ![image](https://user-images.githubusercontent.com/88075963/209146063-95a26d1d-70c3-42cc-b1c6-7c1c93fecf8b.png)![image](https://user-images.githubusercontent.com/88075963/209146236-43e60a06-08d5-4c87-9743-69d29c3cd029.png)
+Demo : Single Page App with React & React-router | ![image](https://user-images.githubusercontent.com/88075963/209489067-cb268b6e-9e02-4dfa-8858-f79151d5a75e.png) ![image](https://user-images.githubusercontent.com/88075963/209488877-eb017310-c1eb-4c47-bd35-0222ab2dbb36.png) ![image](https://user-images.githubusercontent.com/88075963/209488924-da1330d8-fcaa-49e9-81dd-75ccebf2cec0.png) ![image](https://user-images.githubusercontent.com/88075963/209488952-9fc1af01-a7a2-4fa3-bec1-465643bdc225.png) 
 Demo : Dynamic Web Page using Laravel	
 Demo : Web Service using Slim	
 Demo : News Site using Wordpress
