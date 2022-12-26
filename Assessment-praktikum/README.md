@@ -23,7 +23,7 @@ Demo : HTML Responsive Layout with Media Query & Flexbox | ![Screenshot (346)](h
 Demo : Javascript Data Transformation	| ![image](https://user-images.githubusercontent.com/88075963/209489955-a8f1e1fb-8f7a-4851-a6d4-15d380b19e8e.png)![image](https://user-images.githubusercontent.com/88075963/209489935-6a8e4014-9043-47a7-834b-44c6a7167bbe.png)
 Demo : Browser API - Event Handling, Local Storage, Element manipulation | ![image](https://user-images.githubusercontent.com/88075963/209507292-db775472-eacf-44ab-a9d7-4ce4a3d33e99.png)![image](https://user-images.githubusercontent.com/88075963/209507141-61281a41-0d07-483b-81f2-432a15cf1a48.png)
 Demo : HTTP GET & POST using Form Action and Fetch API | ![image](https://user-images.githubusercontent.com/88075963/209505093-56664788-fd45-4db7-9aaa-f8a77f106253.png)
-Demo : PHP DB - Dynamic Web Page | ![image](https://user-images.githubusercontent.com/88075963/209543654-16dfdc5e-3dae-48b1-b63e-e7c49f330bc2.png)
+Demo : PHP DB - Dynamic Web Page | ![image](https://user-images.githubusercontent.com/88075963/209544076-b0576f96-5992-46a8-aa82-164db842902c.png)
 Demo : PHP DB - Web Service	| ![image](https://user-images.githubusercontent.com/88075963/209540218-106a7dc7-029f-4365-b80e-49ea269e10b9.png)
 Demo : OOP-based PHP Project using Composer	| ![image](https://user-images.githubusercontent.com/88075963/209538490-6b70d832-f48a-4b72-9754-7c1a844c7af1.png)
 Demo : Deploy PHP Project to Cpanel	| ![image](https://user-images.githubusercontent.com/88075963/209543319-9303d242-c6a8-4a0c-b383-e2b525ec8942.png)
