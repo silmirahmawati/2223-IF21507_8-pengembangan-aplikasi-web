@@ -21,7 +21,7 @@ Penugasan | Tangkapan Layar
 ---- | ---
 Demo : HTML Responsive Layout with Media Query & Flexbox | ![Screenshot (346)](https://user-images.githubusercontent.com/88075963/191169521-953eff7d-85cb-4180-80ca-c21c035a25b9.png)	![Screenshot (351)](https://user-images.githubusercontent.com/88075963/191169844-d4961873-0a4c-42c1-9a49-35c5159f1cb1.png)
 Demo : Javascript Data Transformation	| ![image](https://user-images.githubusercontent.com/88075963/209489955-a8f1e1fb-8f7a-4851-a6d4-15d380b19e8e.png)![image](https://user-images.githubusercontent.com/88075963/209489935-6a8e4014-9043-47a7-834b-44c6a7167bbe.png)
-Demo : Browser API - Event Handling, Local Storage, Element manipulation	
+Demo : Browser API - Event Handling, Local Storage, Element manipulation | ![image](https://user-images.githubusercontent.com/88075963/209507292-db775472-eacf-44ab-a9d7-4ce4a3d33e99.png)![image](https://user-images.githubusercontent.com/88075963/209507141-61281a41-0d07-483b-81f2-432a15cf1a48.png)
 Demo : HTTP GET & POST using Form Action and Fetch API | ![image](https://user-images.githubusercontent.com/88075963/209505093-56664788-fd45-4db7-9aaa-f8a77f106253.png)
 Demo : PHP DB - Dynamic Web Page	
 Demo : PHP DB - Web Service	
