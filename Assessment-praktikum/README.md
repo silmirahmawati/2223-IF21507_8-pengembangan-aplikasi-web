@@ -25,7 +25,7 @@ Demo : Browser API - Event Handling, Local Storage, Element manipulation | ![ima
 Demo : HTTP GET & POST using Form Action and Fetch API | ![image](https://user-images.githubusercontent.com/88075963/209505093-56664788-fd45-4db7-9aaa-f8a77f106253.png)
 Demo : PHP DB - Dynamic Web Page | ![image](https://user-images.githubusercontent.com/88075963/209538389-a697d942-0bd1-4844-aa69-b4685264b3a3.png)
 Demo : PHP DB - Web Service	| ![image](https://user-images.githubusercontent.com/88075963/209538389-a697d942-0bd1-4844-aa69-b4685264b3a3.png)
-Demo : OOP-based PHP Project using Composer	
+Demo : OOP-based PHP Project using Composer	| ![image](https://user-images.githubusercontent.com/88075963/209538490-6b70d832-f48a-4b72-9754-7c1a844c7af1.png)
 Demo : Deploy PHP Project to Cpanel	
 
 # CLO-0213
