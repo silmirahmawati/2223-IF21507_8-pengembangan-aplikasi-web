@@ -1,3 +1,7 @@
+## Nama : Silmi Rahmawati
+## NIM : 1207050120
+## Kelas : Teknik Informatika F
+
 # CLO-0211
 
 Penugasan | Tangkapan Layar
