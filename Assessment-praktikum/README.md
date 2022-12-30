@@ -17,7 +17,6 @@ Demo : NodeJS & NPM installation, operation & hello world	| ![image](https://use
 Demo : Linux server operation	| ![image](https://user-images.githubusercontent.com/88075963/209501410-d72563a6-0adf-439f-a2dc-0be57605931f.png)
 Demo : Nginx / Apache web server installation & operation	| ![Screenshot (428)](https://user-images.githubusercontent.com/88075963/209524205-c3bfe9f8-0c73-4137-929b-1d2be1b4ac35.png)![Screenshot (429)](https://user-images.githubusercontent.com/88075963/209524210-c4bad321-3599-4dbd-ad79-f7b5a25592dd.png)
 Demo : Cpanel operation	| ![image](https://user-images.githubusercontent.com/88075963/210070410-3241fd34-9146-499e-8f6a-2df88d6e8b16.png)![image](https://user-images.githubusercontent.com/88075963/210070468-6f08a080-547f-4a6f-8710-7c6cd3457824.png)
-
 Demo : Domain registration	
 
 # CLO-0212
@@ -38,6 +37,6 @@ Penugasan | Tangkapan Layar
 ---- | ---
 Demo : HTML Responsive Layout with Bootstrap | ![image](https://user-images.githubusercontent.com/88075963/209126309-a7e05da1-aa12-4b49-83e1-cc10207e56a2.png) ![image](https://user-images.githubusercontent.com/88075963/209126529-ee13af18-75d2-493a-a481-9b63f0f2803a.png)
 Demo : Single Page App with React & React-router | ![image](https://user-images.githubusercontent.com/88075963/209489067-cb268b6e-9e02-4dfa-8858-f79151d5a75e.png) ![image](https://user-images.githubusercontent.com/88075963/209488877-eb017310-c1eb-4c47-bd35-0222ab2dbb36.png) ![image](https://user-images.githubusercontent.com/88075963/209488924-da1330d8-fcaa-49e9-81dd-75ccebf2cec0.png) ![image](https://user-images.githubusercontent.com/88075963/209488952-9fc1af01-a7a2-4fa3-bec1-465643bdc225.png) 
-Demo : Dynamic Web Page using Laravel	
-Demo : Web Service using Slim	
-Demo : News Site using Wordpress
+Demo : Dynamic Web Page using Codeigniter	
+Demo : Web Service using Express	
+Demo : News Site using Wordpress | ![image](https://user-images.githubusercontent.com/88075963/210071460-66116f9f-a3ed-411c-837d-75a110f15731.png)
