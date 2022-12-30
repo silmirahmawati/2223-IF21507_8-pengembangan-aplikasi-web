@@ -17,7 +17,7 @@ Demo : NodeJS & NPM installation, operation & hello world	| ![image](https://use
 Demo : Linux server operation	| ![image](https://user-images.githubusercontent.com/88075963/209501410-d72563a6-0adf-439f-a2dc-0be57605931f.png)
 Demo : Nginx / Apache web server installation & operation	| ![Screenshot (428)](https://user-images.githubusercontent.com/88075963/209524205-c3bfe9f8-0c73-4137-929b-1d2be1b4ac35.png)![Screenshot (429)](https://user-images.githubusercontent.com/88075963/209524210-c4bad321-3599-4dbd-ad79-f7b5a25592dd.png)
 Demo : Cpanel operation	| ![image](https://user-images.githubusercontent.com/88075963/210070410-3241fd34-9146-499e-8f6a-2df88d6e8b16.png)![image](https://user-images.githubusercontent.com/88075963/210070468-6f08a080-547f-4a6f-8710-7c6cd3457824.png)
-Demo : Domain registration	
+Demo : Domain registration | ![image](https://user-images.githubusercontent.com/88075963/210071871-3bc0d8dd-079b-4392-a67c-29e2d21ba420.png)
 
 # CLO-0212
 
