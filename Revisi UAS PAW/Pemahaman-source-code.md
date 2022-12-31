@@ -3,13 +3,12 @@
 ## Kelas : Teknik Informatika F
 ## Revisi UAS Pengembangan Aplikasi Web 
 
-const
-axios
-await axios
-let 
-.post(
-useState("")
-useEffect(()
-useNavigate()
-async ()
-{ state: { token: data.split("/")[1] } }) 
+### const : 
+### axios : 
+### await axios :
+### .post() :
+### useState("") :
+### useEffect(() :
+### useNavigate() :
+### async () :
+### { state: { token: data.split("/")[1] } }) :
