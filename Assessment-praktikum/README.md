@@ -38,6 +38,6 @@ Penugasan | Tangkapan Layar
 ---- | ---
 Demo : HTML Responsive Layout with Bootstrap | ![image](https://user-images.githubusercontent.com/88075963/209126309-a7e05da1-aa12-4b49-83e1-cc10207e56a2.png) ![image](https://user-images.githubusercontent.com/88075963/209126529-ee13af18-75d2-493a-a481-9b63f0f2803a.png)
 Demo : Single Page App with React & React-router | ![image](https://user-images.githubusercontent.com/88075963/209489067-cb268b6e-9e02-4dfa-8858-f79151d5a75e.png) ![image](https://user-images.githubusercontent.com/88075963/209488877-eb017310-c1eb-4c47-bd35-0222ab2dbb36.png) ![image](https://user-images.githubusercontent.com/88075963/209488924-da1330d8-fcaa-49e9-81dd-75ccebf2cec0.png) ![image](https://user-images.githubusercontent.com/88075963/209488952-9fc1af01-a7a2-4fa3-bec1-465643bdc225.png) 
-Demo : Dynamic Web Page using Codeigniter	
+Demo : Dynamic Web Page using Codeigniter | ![554506DB-8C48-44D8-95D9-D44240407022](https://user-images.githubusercontent.com/88075963/210141486-66dc0acf-1b69-4800-a5a9-8979f5d09391.jpeg)	
 Demo : Web Service using Express	| ![Screenshot (396)](https://user-images.githubusercontent.com/88075963/209367940-6d216b92-fdfe-47f9-83e9-ba5872c8e6d5.png)
 Demo : News Site using Wordpress | ![image](https://user-images.githubusercontent.com/88075963/210071460-66116f9f-a3ed-411c-837d-75a110f15731.png)
